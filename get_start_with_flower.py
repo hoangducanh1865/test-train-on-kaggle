@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1TMgsZdfSbv_Sznvmtgwtjvy8EN7wPbtA
 """
 
-!pip install -q flwr[simulation] flwr-datasets[vision] torch torchvision matplotlib
+# !pip install -q flwr[simulation] flwr-datasets[vision] torch torchvision matplotlib
 
 from collections import OrderedDict
 from typing import List, Tuple
