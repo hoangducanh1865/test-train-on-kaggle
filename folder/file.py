@@ -1,1 +1,1 @@
-print("Test folder/file.py successful!")
+print("Test folder/file.py ver 0 successful!")
